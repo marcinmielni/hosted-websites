@@ -1,5 +1,0 @@
-baseURL = 'http://marcin.mielnicz.uk/'
-languageCode = 'en-us'
-title = 'Home page [MM]'
-
-theme = 'lugo'

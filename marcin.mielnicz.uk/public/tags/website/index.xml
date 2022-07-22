@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Home page [MM]</title>
+	<link>http://marcin.mielnicz.uk/tags/website/</link>
+	<description>Recent content in website on Home page [MM]</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Thu, 21 Jul 2022 23:07:11 +0200</lastBuildDate>
+    
+        <atom:link href="http://marcin.mielnicz.uk/tags/website/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>About</title>
+		<link>http://marcin.mielnicz.uk/about/</link>
+		<pubDate>Thu, 21 Jul 2022 23:07:11 +0200</pubDate>
+		
+		<guid>http://marcin.mielnicz.uk/about/</guid>
+		<description>&lt;p&gt;This website is powered by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;virtual machine provided by vultr.com&lt;/li&gt;
+&lt;li&gt;domain registered on epik.com&lt;/li&gt;
+&lt;li&gt;nginx on Debian 11&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;: 5 hours of debuging can save you a 5 minutes of reading documentation. ~Sun Tzu, &amp;ldquo;Art of war&amp;rdquo;&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>

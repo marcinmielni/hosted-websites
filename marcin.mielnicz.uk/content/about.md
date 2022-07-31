@@ -6,8 +6,14 @@ tags: ['website']
 ---
 This website is powered by:
 
- - virtual machine provided by vultr.com
- - domain registered on epik.com
- - nginx on Debian 11
+| Resource | Links |
+| ----------- | ----------- |
+| Virtual Machine | https://www.vultr.com |
+| Domain | https://www.epik.com/ |
+| Nginx | https://www.nginx.com/|
+| HUGO | https://gohugo.io |
+| Coder theme for HUGO | https://github.com/luizdepra/hugo-coder/ |
 
-: 5 hours of debuging can save you a 5 minutes of reading documentation. ~Sun Tzu, "Art of war"
+> 5 hours of debuging can save you a 5 minutes of reading documentation. ~Sun Tzu, "Art of war"
+
+Also, check out my sister's [page](http://joanna.mielnicz.uk)

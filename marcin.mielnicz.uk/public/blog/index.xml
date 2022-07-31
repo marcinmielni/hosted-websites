@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on MIELNICZ.UK</title>
+    <link>http://marcin.mielnicz.uk/blog/</link>
+    <description>Recent content in Blogs on MIELNICZ.UK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jul 2022 13:42:32 +0200</lastBuildDate><atom:link href="http://marcin.mielnicz.uk/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pinephone</title>
+      <link>http://marcin.mielnicz.uk/blog/pinephone1/</link>
+      <pubDate>Sun, 31 Jul 2022 13:42:32 +0200</pubDate>
+      
+      <guid>http://marcin.mielnicz.uk/blog/pinephone1/</guid>
+      <description>Placeholder for a blog entry about pinephone</description>
+    </item>
+    
+  </channel>
+</rss>

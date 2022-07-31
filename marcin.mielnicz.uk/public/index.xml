@@ -1,30 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-	<title>Home page [MM]</title>
-	<link>http://marcin.mielnicz.uk/</link>
-	<description>Recent content on Home page [MM]</description>
-	<generator>Hugo -- gohugo.io</generator>
-	<language>en-us</language>
-	<lastBuildDate>Thu, 21 Jul 2022 23:07:11 +0200</lastBuildDate>
+    <title>MIELNICZ.UK</title>
+    <link>http://marcin.mielnicz.uk/</link>
+    <description>Recent content on MIELNICZ.UK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jul 2022 15:43:59 +0200</lastBuildDate><atom:link href="http://marcin.mielnicz.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Professional Profile</title>
+      <link>http://marcin.mielnicz.uk/profile/</link>
+      <pubDate>Sun, 31 Jul 2022 15:53:32 +0200</pubDate>
+      
+      <guid>http://marcin.mielnicz.uk/profile/</guid>
+      <description>WIP: Professional profile will appear here soon&amp;hellip;</description>
+    </item>
     
-        <atom:link href="http://marcin.mielnicz.uk/index.xml" rel="self" type="application/rss+xml" />
-	
-	
-	<item>
-		<title>About</title>
-		<link>http://marcin.mielnicz.uk/about/</link>
-		<pubDate>Thu, 21 Jul 2022 23:07:11 +0200</pubDate>
-		
-		<guid>http://marcin.mielnicz.uk/about/</guid>
-		<description>&lt;p&gt;This website is powered by:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;virtual machine provided by vultr.com&lt;/li&gt;
-&lt;li&gt;domain registered on epik.com&lt;/li&gt;
-&lt;li&gt;nginx on Debian 11&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;: 5 hours of debuging can save you a 5 minutes of reading documentation. ~Sun Tzu, &amp;ldquo;Art of war&amp;rdquo;&lt;/p&gt;
-</description>
-	</item>
-	
-	</channel>
+    <item>
+      <title>Dummy_article</title>
+      <link>http://marcin.mielnicz.uk/articles/dummy_article/</link>
+      <pubDate>Sun, 31 Jul 2022 15:43:59 +0200</pubDate>
+      
+      <guid>http://marcin.mielnicz.uk/articles/dummy_article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pinephone</title>
+      <link>http://marcin.mielnicz.uk/blog/pinephone1/</link>
+      <pubDate>Sun, 31 Jul 2022 13:42:32 +0200</pubDate>
+      
+      <guid>http://marcin.mielnicz.uk/blog/pinephone1/</guid>
+      <description>Placeholder for a blog entry about pinephone</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://marcin.mielnicz.uk/about/</link>
+      <pubDate>Thu, 21 Jul 2022 23:07:11 +0200</pubDate>
+      
+      <guid>http://marcin.mielnicz.uk/about/</guid>
+      <description>This website is powered by:
+Resource Links Virtual Machine https://www.vultr.com Domain https://www.epik.com/ Nginx https://www.nginx.com/ HUGO https://gohugo.io Coder theme for HUGO https://github.com/luizdepra/hugo-coder/ 5 hours of debuging can save you a 5 minutes of reading documentation. ~Sun Tzu, &amp;ldquo;Art of war&amp;rdquo;
+Also, check out my sister&amp;rsquo;s page</description>
+    </item>
+    
+  </channel>
 </rss>

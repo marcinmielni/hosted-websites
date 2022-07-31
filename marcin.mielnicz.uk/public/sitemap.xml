@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://marcin.mielnicz.uk/about/</loc>
-    <lastmod>2022-07-21T23:07:11+02:00</lastmod>
+    <loc>http://marcin.mielnicz.uk/profile/</loc>
+    <lastmod>2022-07-31T15:53:32+02:00</lastmod>
+  </url><url>
+    <loc>http://marcin.mielnicz.uk/articles/</loc>
+    <lastmod>2022-07-31T15:43:59+02:00</lastmod>
+  </url><url>
+    <loc>http://marcin.mielnicz.uk/articles/dummy_article/</loc>
+    <lastmod>2022-07-31T15:43:59+02:00</lastmod>
   </url><url>
     <loc>http://marcin.mielnicz.uk/</loc>
+    <lastmod>2022-07-31T15:43:59+02:00</lastmod>
+  </url><url>
+    <loc>http://marcin.mielnicz.uk/blog/</loc>
+    <lastmod>2022-07-31T13:42:32+02:00</lastmod>
+  </url><url>
+    <loc>http://marcin.mielnicz.uk/blog/pinephone1/</loc>
+    <lastmod>2022-07-31T13:42:32+02:00</lastmod>
+  </url><url>
+    <loc>http://marcin.mielnicz.uk/about/</loc>
     <lastmod>2022-07-21T23:07:11+02:00</lastmod>
   </url><url>
     <loc>http://marcin.mielnicz.uk/tags/</loc>

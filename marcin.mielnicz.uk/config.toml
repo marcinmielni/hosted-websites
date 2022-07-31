@@ -1,5 +1,47 @@
 baseURL = 'http://marcin.mielnicz.uk/'
 languageCode = 'en-us'
-title = 'Home page [MM]'
+title = "MIELNICZ.UK"
+theme = 'coder'
 
-theme = 'lugo'
+[params]
+	author = "Marcin Mielniczuk"
+	info = "Extramural student and begginer programmer"
+	description = "Marcin Mielniczuk's personal website"
+	avatarurl = "images/avatar.jpg"
+	colorScheme = "light"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/marcinmielni/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/marcinmielni/"
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/marcinmielni/"
+
+[[menu.main]]
+  name = "Profile"
+  weight = 1
+  url = "profile/"
+
+[[menu.main]]
+  name = "Articles"
+  weight = 2
+  url = "articles/"
+
+[[menu.main]]
+  name = "Blog"
+  weight = 3
+  url = "blog/"
+
+[[menu.main]]
+  name = "About"
+  weight = 10
+  url = "about/"

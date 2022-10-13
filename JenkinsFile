@@ -6,7 +6,7 @@ pipeline {
 
         stage("build") {
             steps {
-                sh build.sh
+                sh "hugo -s marcin.mielnicz.uk"
             }
         }
         stage("test") {
@@ -16,7 +16,7 @@ pipeline {
         }
         stage("deploy") {
             steps {
-                sh deploy.sh
+                sh "rsync -uvrP --delete-after marcin.mielnicz.uk/public root@mielnicz.uk:/var/www/html/marcin.mielnicz.uk"
             }
         }
     }

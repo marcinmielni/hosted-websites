@@ -4,19 +4,9 @@ pipeline {
 
     stages {
 
-        stage("build") {
+        stage("build_and_deploy") {
             steps {
-                sh "hugo -s marcin.mielnicz.uk"
-            }
-        }
-        stage("test") {
-            steps {
-               echo "dummy testing XD"
-            }
-        }
-        stage("deploy") {
-            steps {
-                sh "rsync -uvrP --delete-after marcin.mielnicz.uk/public /var/www/html/marcin.mielnicz.uk"
+                sh "hugo -s marcin.mielnicz.uk -d /var/www/html/marcin.mielnicz.uk"
             }
         }
     }

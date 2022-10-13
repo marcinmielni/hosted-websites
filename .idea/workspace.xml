@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fbbc392-0889-4ff6-aa9b-e7bd1e48255c" name="Changes" comment="some more more Jenkis shenanigans gansssss">
+    <list default="true" id="1fbbc392-0889-4ff6-aa9b-e7bd1e48255c" name="Changes" comment="some more more Jenkis shenanigans remove sudo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JenkinsFile" beforeDir="false" afterPath="$PROJECT_DIR$/JenkinsFile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665688716632</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="some more more Jenkis shenanigans remove sudo">
+      <created>1665688818358</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1665688818358</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +165,7 @@
     <MESSAGE value="some more more Jenkis shenanigans gansss" />
     <MESSAGE value="some more more Jenkis shenanigans ganssss" />
     <MESSAGE value="some more more Jenkis shenanigans gansssss" />
-    <option name="LAST_COMMIT_MESSAGE" value="some more more Jenkis shenanigans gansssss" />
+    <MESSAGE value="some more more Jenkis shenanigans remove sudo" />
+    <option name="LAST_COMMIT_MESSAGE" value="some more more Jenkis shenanigans remove sudo" />
   </component>
 </project>

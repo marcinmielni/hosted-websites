@@ -1,0 +1,31 @@
+pipeline {
+
+    agent any
+
+    stages {
+
+        stage("checkout"){
+            steps{
+                sh "git pull --all"
+                sh "git checkout mm_site_prod"
+            }
+        }
+
+        stage("build") {
+            steps {
+                sh "cd marcin.mielnicz.uk"
+                sh "hugo -d"
+            }
+        }
+        stage("test") {
+            steps {
+               echo "dummy testing XD"
+            }
+        }
+        stage("deploy") {
+            steps {
+                sh deploy.sh
+            }
+        }
+    }
+}

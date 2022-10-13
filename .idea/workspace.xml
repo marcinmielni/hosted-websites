@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fbbc392-0889-4ff6-aa9b-e7bd1e48255c" name="Changes" comment="some more more Jenkis shenanigans gansss">
+    <list default="true" id="1fbbc392-0889-4ff6-aa9b-e7bd1e48255c" name="Changes" comment="some more more Jenkis shenanigans ganssss">
       <change beforePath="$PROJECT_DIR$/JenkinsFile" beforeDir="false" afterPath="$PROJECT_DIR$/JenkinsFile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665687327282</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="some more more Jenkis shenanigans ganssss">
+      <created>1665687718962</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665687718962</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +142,7 @@
     <MESSAGE value="some more more Jenkis shenanigans gans" />
     <MESSAGE value="some more more Jenkis shenanigans ganss" />
     <MESSAGE value="some more more Jenkis shenanigans gansss" />
-    <option name="LAST_COMMIT_MESSAGE" value="some more more Jenkis shenanigans gansss" />
+    <MESSAGE value="some more more Jenkis shenanigans ganssss" />
+    <option name="LAST_COMMIT_MESSAGE" value="some more more Jenkis shenanigans ganssss" />
   </component>
 </project>

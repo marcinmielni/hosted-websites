@@ -16,7 +16,7 @@ pipeline {
         }
         stage("deploy") {
             steps {
-                sh "rsync -uvrP --delete-after marcin.mielnicz.uk/public root@mielnicz.uk:/var/www/html/marcin.mielnicz.uk"
+                sh "rsync -uvrP --delete-after marcin.mielnicz.uk/public /var/www/html/marcin.mielnicz.uk"
             }
         }
     }

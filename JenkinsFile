@@ -6,6 +6,7 @@ pipeline {
 
         stage("checkout"){
             steps{
+                sh "git pull --all"
                 sh "git checkout mm_site_prod"
             }
         }

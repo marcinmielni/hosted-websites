@@ -4,11 +4,16 @@ pipeline {
 
     stages {
 
+        stage("checkout"){
+            steps{
+                sh "git checkout mm_site_prod"
+            }
+        }
+
         stage("build") {
             steps {
-                git checkout mm_site_prod
-                cd marcin.mielnicz.uk
-                hugo -d
+                sh "cd marcin.mielnicz.uk"
+                sh "hugo -d"
             }
         }
         stage("test") {

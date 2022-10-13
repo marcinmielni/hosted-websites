@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fbbc392-0889-4ff6-aa9b-e7bd1e48255c" name="Changes" comment="some more Jenkis shenanigans">
+    <list default="true" id="1fbbc392-0889-4ff6-aa9b-e7bd1e48255c" name="Changes" comment="some more more Jenkis shenanigans gans">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JenkinsFile" beforeDir="false" afterPath="$PROJECT_DIR$/JenkinsFile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marcin.mielnicz.uk/public/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marcin.mielnicz.uk/public/about/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marcin.mielnicz.uk/public/articles/dummy_article/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marcin.mielnicz.uk/public/articles/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marcin.mielnicz.uk/public/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marcin.mielnicz.uk/public/blog/pinephone1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marcin.mielnicz.uk/public/categories/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marcin.mielnicz.uk/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marcin.mielnicz.uk/public/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marcin.mielnicz.uk/public/profile/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marcin.mielnicz.uk/public/tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/marcin.mielnicz.uk/public/tags/website/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665686230852</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="some more more Jenkis shenanigans">
+      <created>1665686363092</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665686363092</updated>
+    </task>
+    <task id="LOCAL-00004" summary="some more more Jenkis shenanigans gans">
+      <created>1665686775640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665686775640</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +125,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="profile - added devops section" />
     <MESSAGE value="some more Jenkis shenanigans" />
-    <option name="LAST_COMMIT_MESSAGE" value="some more Jenkis shenanigans" />
+    <MESSAGE value="some more more Jenkis shenanigans" />
+    <MESSAGE value="some more more Jenkis shenanigans gans" />
+    <option name="LAST_COMMIT_MESSAGE" value="some more more Jenkis shenanigans gans" />
   </component>
 </project>

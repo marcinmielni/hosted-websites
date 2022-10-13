@@ -6,7 +6,7 @@ pipeline {
 
         stage("build") {
             steps {
-                sh "cd marcin.mielnicz.uk"
+                sh "cd ./marcin.mielnicz.uk"
                 sh "ls"
                 sh "hugo config"
                 sh "hugo"
